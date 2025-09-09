@@ -1,6 +1,6 @@
 # B&J Binging Journey 🎬💜
 
-Welcome to **B&J Binging Journey**, app that i made for my SO and I to **track movies, TV shows, and anime**! Keep our **watchlist**, rate what we’ve seen, and explore new films together — all in one sleek, dark, minimalistic interface with just a touch of purple, his favourite colour.  
+Welcome to **B&J Binging Journey**, app that i made for my SO and I to **track movies, TV shows, and anime**! Keep our **watchlist**, rate what we’ve seen, and explore new films together — all in dark minimalistic interface with just a touch of purple, his favourite colour.  
 
 ---
 
@@ -18,7 +18,7 @@ Welcome to **B&J Binging Journey**, app that i made for my SO and I to **track m
 - **Organized & collapsible sections**  
   Items are grouped by **Movies, Series, and Anime**. Expand or collapse sections for a clean look.  
 
-- **Modern dark design 🖤💜**  
+- **Design 🖤💜**  
   Minimalistic, monochromatic theme with subtle purple accents.  
 
 - **Prevent duplicates**  
